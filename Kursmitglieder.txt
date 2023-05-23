@@ -1,11 +1,11 @@
-Baram
+Baran, Eike
 Fluss
 Cartoshka
 Ebermei
 Flammenhacke
-Gargamel
+Grimm
 Landvogel
-ClimateChange
+Pöpken, Justus
 Punker
 Gesund
 Schmied
@@ -13,4 +13,4 @@ Strammefrau
 Tetcher
 Wagner
 Wernicke
-Zement
+Zemke
