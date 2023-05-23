@@ -1,16 +1,21 @@
-Baram
+Baran, Eike
 Fluss
 Cartoshka
 Ebermehl
 Flammenhacke
-Gargamel
+Grimm
 Landvogel
-ClimateChange
+Pöpken, Justus
 Punker
 Gesund
 Schmied
 Strammefrau
 Tetcher
 Wagner
+<<<<<<< HEAD
 Wernke, Tom
 Zement
+=======
+Wernicke
+Zemke
+>>>>>>> 9f9e2b8fd241a1aa2a71ebb3b8088d7dad70444b
