@@ -6,11 +6,7 @@ Flammenhacke
 Grimm
 Landvogel
 Pöpken, Justus
-<<<<<<< HEAD
 Pünter, Erik
-=======
-Punker
->>>>>>> a3e7d202fb1f86b8031f308811c11e90c7f6973a
 Gesund
 Schmidt, Fabian
 Stammermann, Simon
