@@ -1,21 +1,16 @@
 Baran, Eike
 Fluss
 Cartoshka
-Ebermehl
+Ebermei
 Flammenhacke
 Grimm
 Landvogel
-<<<<<<< HEAD
-ClimateChange
-Pünter, Erik
-=======
 Pöpken, Justus
-Punker
->>>>>>> e83494b96bc54ba5ca89209a0dc043fe0f2eb034
+Pünter, Erik
 Gesund
-Schmied
+Schmidt, Fabian
 Stammermann, Simon
-Tetcher
+Balesene
 Wagner
-Wernicke
-Zemke
+Wernke, Tom
+Zemke, Kai oder so
