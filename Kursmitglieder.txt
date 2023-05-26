@@ -1,7 +1,7 @@
 Baran, Eike
 Fluss
 Cartoshka
-Ebermehl
+Ebermei
 Flammenhacke
 Grimm
 Landvogel
@@ -9,13 +9,9 @@ Pöpken, Justus
 Punker
 Gesund
 Schmied
-Strammefrau
-Tetcher
+Stammermann, Simon
+Balesene
 Wagner
-<<<<<<< HEAD
 Wernke, Tom
-Zement
-=======
-Wernicke
-Zemke
->>>>>>> 9f9e2b8fd241a1aa2a71ebb3b8088d7dad70444b
+Zemke, Kai oder so
+
